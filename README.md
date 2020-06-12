@@ -6,3 +6,8 @@ A robot with 1 DOF has an endoscope that moves on a gear track via stepper motor
 <p align="center">
   <img width="600" height="800"src="https://github.com/darrentran33/MuscleControlledSurgery/blob/master/Diagrams/BlockDiagram.jpg">
 </p>
+
+## Software
+  * Signal Processing of muscle signal data was performed in Matlab.
+  * Arduino simulation was done in Tinkercad.
+  * CAD design of the robotic arm was done in Solidworks.
